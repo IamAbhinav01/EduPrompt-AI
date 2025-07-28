@@ -1,0 +1,13 @@
+[project]
+name = "eduprompt-ai"
+version = "0.1.0"
+description = "AI-powered educational question generation platform using Groq LLM and LangChain"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-groq>=0.3.6",
+    "pandas>=2.3.1",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.47.1",
+]
