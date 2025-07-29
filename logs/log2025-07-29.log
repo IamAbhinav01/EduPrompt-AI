@@ -1,0 +1,295 @@
+2025-07-29 13:31:44,444 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:31:45,061 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:31:45,096 INFO Succcessfully parsed the question
+2025-07-29 13:31:45,096 INFO Generated a Valid MCQ Question
+2025-07-29 13:31:45,096 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:31:46,222 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:31:46,226 INFO Succcessfully parsed the question
+2025-07-29 13:31:46,226 INFO Generated a Valid MCQ Question
+2025-07-29 13:31:46,226 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:31:46,509 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:31:46,511 INFO Succcessfully parsed the question
+2025-07-29 13:31:46,511 INFO Generated a Valid MCQ Question
+2025-07-29 13:31:46,511 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:31:46,723 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:31:46,725 INFO Succcessfully parsed the question
+2025-07-29 13:31:46,725 INFO Generated a Valid MCQ Question
+2025-07-29 13:32:13,866 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:32:14,959 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:32:14,961 INFO Succcessfully parsed the question
+2025-07-29 13:32:14,961 INFO Generated a Valid MCQ Question
+2025-07-29 13:32:14,961 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:32:15,169 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:32:15,171 INFO Succcessfully parsed the question
+2025-07-29 13:32:15,171 INFO Generated a Valid MCQ Question
+2025-07-29 13:32:15,171 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:32:16,600 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:32:16,602 INFO Succcessfully parsed the question
+2025-07-29 13:32:16,602 INFO Generated a Valid MCQ Question
+2025-07-29 13:32:54,419 INFO Generating question for topic Python with difficulty
+2025-07-29 13:32:54,760 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:32:54,760 INFO Succcessfully parsed the question
+2025-07-29 13:32:54,760 INFO Generated a Valid MCQ Question
+2025-07-29 13:32:54,760 INFO Generating question for topic Python with difficulty
+2025-07-29 13:32:55,070 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:32:55,072 INFO Succcessfully parsed the question
+2025-07-29 13:32:55,072 INFO Generated a Valid MCQ Question
+2025-07-29 13:32:55,072 INFO Generating question for topic Python with difficulty
+2025-07-29 13:32:55,632 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:32:55,636 INFO Succcessfully parsed the question
+2025-07-29 13:32:55,636 INFO Generated a Valid MCQ Question
+2025-07-29 13:32:55,636 INFO Generating question for topic Python with difficulty
+2025-07-29 13:32:56,931 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:32:56,933 INFO Succcessfully parsed the question
+2025-07-29 13:32:56,933 INFO Generated a Valid MCQ Question
+2025-07-29 13:34:17,778 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:34:18,384 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:34:18,386 INFO Succcessfully parsed the question
+2025-07-29 13:34:18,386 INFO Generated a Valid MCQ Question
+2025-07-29 13:34:18,386 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:34:18,585 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:34:18,587 INFO Succcessfully parsed the question
+2025-07-29 13:34:18,587 INFO Generated a Valid MCQ Question
+2025-07-29 13:34:18,587 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:34:18,894 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:34:18,894 INFO Succcessfully parsed the question
+2025-07-29 13:34:18,894 INFO Generated a Valid MCQ Question
+2025-07-29 13:34:18,894 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:34:19,099 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:34:19,104 INFO Succcessfully parsed the question
+2025-07-29 13:34:19,104 INFO Generated a Valid MCQ Question
+2025-07-29 13:48:42,192 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:48:42,899 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:48:42,932 INFO Succcessfully parsed the question
+2025-07-29 13:48:42,932 INFO Generated a Valid True/False Question
+2025-07-29 13:48:42,932 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:48:43,101 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:48:43,103 INFO Succcessfully parsed the question
+2025-07-29 13:48:43,103 INFO Generated a Valid True/False Question
+2025-07-29 13:48:43,103 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:48:44,335 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:48:44,337 INFO Succcessfully parsed the question
+2025-07-29 13:48:44,337 INFO Generated a Valid True/False Question
+2025-07-29 13:48:44,337 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:48:45,980 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:48:45,982 INFO Succcessfully parsed the question
+2025-07-29 13:48:45,982 INFO Generated a Valid True/False Question
+2025-07-29 13:48:45,982 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:48:46,151 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:48:46,152 INFO Succcessfully parsed the question
+2025-07-29 13:48:46,154 INFO Generated a Valid True/False Question
+2025-07-29 13:51:21,212 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:51:22,113 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:51:22,115 INFO Succcessfully parsed the question
+2025-07-29 13:51:22,115 INFO Generated a Valid True/False Question
+2025-07-29 13:51:22,115 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:51:22,700 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:51:22,700 INFO Succcessfully parsed the question
+2025-07-29 13:51:22,700 INFO Generated a Valid True/False Question
+2025-07-29 13:51:22,700 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:51:23,498 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:51:23,498 INFO Succcessfully parsed the question
+2025-07-29 13:51:23,498 INFO Generated a Valid True/False Question
+2025-07-29 13:51:23,498 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:51:23,714 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:51:23,714 INFO Succcessfully parsed the question
+2025-07-29 13:51:23,714 INFO Generated a Valid True/False Question
+2025-07-29 13:52:21,538 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:52:21,930 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:52:21,932 INFO Succcessfully parsed the question
+2025-07-29 13:52:21,932 INFO Generated a Valid True/False Question
+2025-07-29 13:52:21,932 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:52:22,468 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:52:22,470 INFO Succcessfully parsed the question
+2025-07-29 13:52:22,470 INFO Generated a Valid True/False Question
+2025-07-29 13:52:22,471 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:52:24,194 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:52:24,194 INFO Succcessfully parsed the question
+2025-07-29 13:52:24,194 INFO Generated a Valid True/False Question
+2025-07-29 13:52:24,194 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:52:24,363 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:52:24,367 INFO Succcessfully parsed the question
+2025-07-29 13:52:24,367 INFO Generated a Valid True/False Question
+2025-07-29 13:53:04,819 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:05,087 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:05,089 ERROR Failed to generate question for topic DSA with difficulty hard.
+2025-07-29 13:53:05,089 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:05,309 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:05,309 ERROR Failed to generate question for topic DSA with difficulty hard.
+2025-07-29 13:53:05,309 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:06,201 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:06,207 ERROR Failed to generate question for topic DSA with difficulty hard.
+2025-07-29 13:53:06,207 ERROR failed to generate Fill in Blank question for topic DSA with difficulty hard
+2025-07-29 13:53:12,890 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:15,389 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:15,389 INFO Succcessfully parsed the question
+2025-07-29 13:53:15,389 INFO Generated a Valid MCQ Question
+2025-07-29 13:53:15,389 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:15,669 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:15,678 INFO Succcessfully parsed the question
+2025-07-29 13:53:15,678 INFO Generated a Valid MCQ Question
+2025-07-29 13:53:15,678 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:15,914 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:15,914 INFO Succcessfully parsed the question
+2025-07-29 13:53:15,914 INFO Generated a Valid MCQ Question
+2025-07-29 13:53:15,914 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:16,148 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:16,149 INFO Succcessfully parsed the question
+2025-07-29 13:53:16,149 INFO Generated a Valid MCQ Question
+2025-07-29 13:53:21,208 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:21,720 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:21,720 ERROR Failed to generate question for topic DSA with difficulty hard.
+2025-07-29 13:53:21,720 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:21,943 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:21,947 ERROR Failed to generate question for topic DSA with difficulty hard.
+2025-07-29 13:53:21,948 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:22,129 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:22,132 ERROR Failed to generate question for topic DSA with difficulty hard.
+2025-07-29 13:53:22,132 ERROR failed to generate Fill in Blank question for topic DSA with difficulty hard
+2025-07-29 13:53:50,560 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:52,157 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:52,159 INFO Succcessfully parsed the question
+2025-07-29 13:53:52,160 INFO Generated a Valid MCQ Question
+2025-07-29 13:53:52,160 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:52,404 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:52,404 INFO Succcessfully parsed the question
+2025-07-29 13:53:52,404 INFO Generated a Valid MCQ Question
+2025-07-29 13:53:52,404 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:52,704 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:52,704 INFO Succcessfully parsed the question
+2025-07-29 13:53:52,704 INFO Generated a Valid MCQ Question
+2025-07-29 13:53:52,704 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:53:52,940 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:53:52,940 INFO Succcessfully parsed the question
+2025-07-29 13:53:52,943 INFO Generated a Valid MCQ Question
+2025-07-29 13:55:44,241 INFO Generating question for topic web with difficulty
+2025-07-29 13:55:44,540 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:55:44,545 ERROR Failed to generate question for topic web with difficulty hard.
+2025-07-29 13:55:44,545 INFO Generating question for topic web with difficulty
+2025-07-29 13:55:44,700 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:55:44,703 ERROR Failed to generate question for topic web with difficulty hard.
+2025-07-29 13:55:44,703 INFO Generating question for topic web with difficulty
+2025-07-29 13:55:44,899 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:55:44,899 ERROR Failed to generate question for topic web with difficulty hard.
+2025-07-29 13:55:44,899 ERROR failed to generate Fill in Blank question for topic web with difficulty hard
+2025-07-29 13:57:32,423 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:57:32,755 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:57:32,757 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 13:57:32,757 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:57:32,959 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:57:32,959 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 13:57:32,959 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:57:33,245 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:57:33,245 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 13:57:33,245 ERROR failed to generate Fill in Blank question for topic DSA with difficulty medium
+2025-07-29 13:58:23,355 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:58:23,755 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:58:23,755 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 13:58:23,755 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:58:23,995 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:58:23,995 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 13:58:23,995 INFO Generating question for topic DSA with difficulty
+2025-07-29 13:58:24,217 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:58:24,217 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 13:58:24,217 ERROR failed to generate Fill in Blank question for topic DSA with difficulty medium
+2025-07-29 13:59:39,207 INFO Generating question for topic python with difficulty
+2025-07-29 13:59:39,490 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:59:39,498 ERROR Failed to generate question for topic python with difficulty medium.
+2025-07-29 13:59:39,498 INFO Generating question for topic python with difficulty
+2025-07-29 13:59:39,656 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:59:39,656 ERROR Failed to generate question for topic python with difficulty medium.
+2025-07-29 13:59:39,666 INFO Generating question for topic python with difficulty
+2025-07-29 13:59:39,846 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 13:59:39,848 ERROR Failed to generate question for topic python with difficulty medium.
+2025-07-29 13:59:39,848 ERROR failed to generate Fill in Blank question for topic python with difficulty medium
+2025-07-29 14:00:56,204 INFO Generating question for topic indian history with difficulty
+2025-07-29 14:00:56,705 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:00:56,714 ERROR Failed to generate question for topic indian history with difficulty medium.
+2025-07-29 14:00:56,716 INFO Generating question for topic indian history with difficulty
+2025-07-29 14:00:58,625 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:00:58,625 ERROR Failed to generate question for topic indian history with difficulty medium.
+2025-07-29 14:00:58,625 INFO Generating question for topic indian history with difficulty
+2025-07-29 14:00:58,965 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:00:58,965 ERROR Failed to generate question for topic indian history with difficulty medium.
+2025-07-29 14:00:58,965 ERROR failed to generate Fill in Blank question for topic indian history with difficulty medium
+2025-07-29 14:03:03,162 INFO Generating question for topic geogrphy with difficulty
+2025-07-29 14:03:03,469 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:03:03,476 ERROR Failed to generate question for topic geogrphy with difficulty medium.
+2025-07-29 14:03:03,478 INFO Generating question for topic geogrphy with difficulty
+2025-07-29 14:03:04,196 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:03:04,198 ERROR Failed to generate question for topic geogrphy with difficulty medium.
+2025-07-29 14:03:04,198 INFO Generating question for topic geogrphy with difficulty
+2025-07-29 14:03:04,380 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:03:04,380 ERROR Failed to generate question for topic geogrphy with difficulty medium.
+2025-07-29 14:03:04,383 ERROR failed to generate Fill in Blank question for topic geogrphy with difficulty medium
+2025-07-29 14:04:47,500 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:04:47,879 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:04:47,879 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:04:47,879 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:04:48,133 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:04:48,133 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:04:48,133 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:04:49,349 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:04:49,352 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:04:49,352 ERROR \u274c Failed to generate Fill in the Blank question for topic 'DSA' at difficulty 'medium': 'CustomException' object has no attribute 'get_detailer_error_message'
+2025-07-29 14:04:49,368 WARNING \u26a0\ufe0f Using fallback Fill in the Blank question.
+2025-07-29 14:05:55,728 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:05:56,056 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:05:56,058 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:05:56,058 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:05:56,274 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:05:56,284 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:05:56,284 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:05:56,510 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:05:56,510 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:05:56,510 ERROR failed to generate Fill in Blank question for topic DSA with difficulty medium
+2025-07-29 14:06:54,670 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:06:54,906 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:06:54,911 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:06:54,911 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:06:55,085 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:06:55,085 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:06:55,094 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:06:55,260 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:06:55,260 ERROR Failed to generate question for topic DSA with difficulty medium.
+2025-07-29 14:06:55,260 ERROR failed to generate Fill in Blank question for topic DSA with difficulty medium
+2025-07-29 14:16:21,051 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:16:21,475 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:16:21,489 INFO Succcessfully parsed the question
+2025-07-29 14:16:21,489 INFO Generated a Valid MCQ Question
+2025-07-29 14:16:21,489 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:16:21,702 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:16:21,705 INFO Succcessfully parsed the question
+2025-07-29 14:16:21,705 INFO Generated a Valid MCQ Question
+2025-07-29 14:16:21,705 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:16:21,923 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:16:21,925 INFO Succcessfully parsed the question
+2025-07-29 14:16:21,925 INFO Generated a Valid MCQ Question
+2025-07-29 14:16:21,927 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:16:22,137 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:16:22,141 INFO Succcessfully parsed the question
+2025-07-29 14:16:22,141 INFO Generated a Valid MCQ Question
+2025-07-29 14:16:22,141 INFO Generating question for topic DSA with difficulty
+2025-07-29 14:16:22,338 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:16:22,340 INFO Succcessfully parsed the question
+2025-07-29 14:16:22,340 INFO Generated a Valid MCQ Question
+2025-07-29 14:17:00,769 INFO Generating question for topic mlops , cicd pipeline with difficulty
+2025-07-29 14:17:01,039 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:17:01,043 INFO Succcessfully parsed the question
+2025-07-29 14:17:01,043 INFO Generated a Valid True/False Question
+2025-07-29 14:17:01,044 INFO Generating question for topic mlops , cicd pipeline with difficulty
+2025-07-29 14:17:01,224 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:17:01,226 INFO Succcessfully parsed the question
+2025-07-29 14:17:01,226 INFO Generated a Valid True/False Question
+2025-07-29 14:17:01,226 INFO Generating question for topic mlops , cicd pipeline with difficulty
+2025-07-29 14:17:01,411 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:17:01,414 INFO Succcessfully parsed the question
+2025-07-29 14:17:01,414 INFO Generated a Valid True/False Question
+2025-07-29 14:17:01,414 INFO Generating question for topic mlops , cicd pipeline with difficulty
+2025-07-29 14:17:01,582 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:17:01,584 INFO Succcessfully parsed the question
+2025-07-29 14:17:01,584 INFO Generated a Valid True/False Question
+2025-07-29 14:17:01,584 INFO Generating question for topic mlops , cicd pipeline with difficulty
+2025-07-29 14:17:01,804 INFO HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-29 14:17:01,806 INFO Succcessfully parsed the question
+2025-07-29 14:17:01,806 INFO Generated a Valid True/False Question

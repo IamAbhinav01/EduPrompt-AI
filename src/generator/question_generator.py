@@ -1,6 +1,6 @@
 from langchain.output_parsers import PydanticOutputParser
-from src.models.question_schemas import FillBlankQuestion,MCQQuestion
-from src.prompts.templates import mcq_prompt_template,fill_blank_prompt_template
+from src.models.question_schemas import FillBlankQuestion,MCQQuestion,TrueFalseQuestions
+from src.prompts.templates import mcq_prompt_template,fill_blank_prompt_template,true_false_prompt_template
 from src.llm.groq_client import get_groq_llm
 from src.config.settings import setting
 from src.common.logger import get_logger
@@ -19,6 +19,7 @@ class QuestionGenerator:
                 response = self.llm.invoke(prompt.format(topic=topic,difficulty=difficulty))
                 parsed = parser.parse(response.content)
                 self.logger.info("Succcessfully parsed the question")
+                return parsed
             except Exception as e:
                 self.logger.error(f"Failed to generate question for topic {topic} with difficulty {difficulty}.")
                 if attempt==setting.MAX_RETRIES-1:
@@ -48,5 +49,21 @@ class QuestionGenerator:
             self.logger.info("Generated a Valid Fill in BlankQuestion")
             return question
         except Exception as e:
-            self.logger.error(f"failed to generate Fill in Blank question for topic {topic} with difficulty {difficulty}")                              
+            self.logger.error(f"failed to generate Fill in Blank question for topic {topic} with difficulty {difficulty}")   
+
+    def generate_true_false(self, topic: str, difficulty: str = 'medium') -> TrueFalseQuestions:
+        try:
+            parser = PydanticOutputParser(pydantic_object=TrueFalseQuestions)
+            question = self._retry_and_parse(true_false_prompt_template, parser=parser, topic=topic, difficulty=difficulty)
+
+            if question.answer not in ["True", "False"]:
+                raise CustomException("Answer must be either 'True' or 'False'")
+            
+            self.logger.info("Generated a Valid True/False Question")
+            return question
+
+        except Exception as e:
+            self.logger.error(f"Failed to generate True/False question for topic {topic} with difficulty {difficulty}: {e}")
+    
+                  
 

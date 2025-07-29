@@ -31,25 +31,33 @@ class QuizzManager:
                             "correct_answer":question.correct_answer
                         }
                     )
-                else:
-                    question = generator.generate_fill_blank(topic,difficulty.lower())
+                elif question_type == "Fill in the Blanks":
+                    question = generator.generate_fill_blank(topic, difficulty.lower())
                     self.questions.append(
                         {
-                            "type":"Fill in the Blanks",
-                            "question":question.question,
-                            "correct_answer":question.answer
+                            "type": "Fill in the Blanks",
+                            "question": question.question,
+                            "correct_answer": question.correct_answer
                         }
                     )
-
+                else:
+                    question = generator.generate_true_false(topic, difficulty.lower())
+                    self.questions.append(
+                        {
+                            "type": "True or False",
+                            "question": question.statement,
+                            "correct_answer": question.answer
+                        }
+                    )
         except Exception as e:
-            st.error("Error generating question {e}")
+            st.error(f"Error generating question {e}")
             return False
         return True
     
 
     def attempt_quiz(self):
         for i,q in enumerate(self.questions):
-            st.markdown(f"**Question {i+1} : {q["question"]}**")
+            st.markdown(f"**Question {i+1} : {q['question']}**")
 
             if q['type']=='MCQ':
                 user_answer = st.radio(
@@ -58,12 +66,19 @@ class QuizzManager:
                     key = f"mcq_{i}"
                 )
                 self.user_answer.append(user_answer)
-            else:
+            elif q['type'] == 'Fill in the Blanks':
                 user_answer = st.text_input(
                     f"Fill in the blanks for Question {i+1}",
                     key = f"fill_blank{i}"
                 )
                 self.user_answer.append(user_answer)
+            else:
+                user_answer = st.radio(
+                f"True or False - Question {i+1}",
+                ["True", "False"],
+                key=f"true_false_{i}"
+            )
+            self.user_answer.append(user_answer)
 
     def evaluate_quiz(self):
         self.results=[]
@@ -79,9 +94,12 @@ class QuizzManager:
             if q['type']=='MCQ':
                 result_dict['options'] = q['options']
                 result_dict["is_correct"]=user_ans==q["correct_answer"]            
-            else:
+            elif q['type'] == 'Fill in the Blanks':
                 result_dict['options'] = []
                 result_dict["is_correct"]=user_ans.strip().lower()==q["correct_answer"].strip().lower()
+            else:
+                result_dict['options'] = ["True", "False"]
+                result_dict["is_correct"] = user_ans.strip().lower() == q["correct_answer"].strip().lower()
             self.results.append(result_dict)
     def generate_result_dataframe(self):
         if not self.results:
